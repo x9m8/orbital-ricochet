@@ -1,0 +1,8 @@
+{
+  "name": "Orbital Ricochet by x9m8.com",
+  "description": "Orbital Ricochet by x9m8.com - A high-octane physics-based arcade peg-blaster and demolition game featuring ricochet physics, multi-ball fever, gravity vortexes, and custom level builder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
